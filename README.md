@@ -1,11 +1,11 @@
 <h1 align="center">Hola, soy Rodrigo un gusto a todos 👋</h1>
 <h3 align="center">Sobre mí: Me encanta la tecnología desde que tengo uso de razón, todo gracias a la Pentium II que compro mi padre.</h3>
 
-- 📚 Actualmente me encuentro cursando la carrera terciaria de “Técnico analista de sistemas”. Cuento con 12 materias aprobadas y me restan 12 materias más, para lograr recibirme. **También he realizado varios cursos en el área de programación**
+- 📚 Actualmente me encuentro cursando la carrera terciaria de “Técnico analista de sistemas”. Cuento con 12 materias aprobadas y me restan 12 materias más, para lograr recibirme. **También he realizado varios cursos en el área de programación.**
 
-- 💬 Me gusta visitar a la familia, ver a los amigos y jugar al futbol en el tiempo libre **De vez en cuando desconectarme para leer o jugar juegos en línea.**
+- 💬 Me gusta visitar a la familia, ver a los amigos y jugar al futbol en el tiempo libre. **De vez en cuando desconectarme para leer o jugar juegos en línea.**
 
-- 📫 Te podes contactar conmigo a través del siguiente correo **rod_martinez88@hotmail.com**
+- 📫 Te podes contactar conmigo a través del siguiente correo: **rod_martinez88@hotmail.com**
 
 <h3 align="left">Mi perfil de Linkedin:</h3>
 <p align="left">
