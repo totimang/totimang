@@ -45,7 +45,7 @@
 ---
 
 <div>
-    <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=totimang&show_icons=true&locale=en&layout=compact" alt="totimang" /></p>
-    <p><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=totimang&show_icons=true&locale=en&layout=compact" alt="totimang" /></p> <br>
+    <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=totimang&show_icons=true&locale=en&layout=compact" alt="totimang" /></p><br>
+    <p><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=totimang&show_icons=true&locale=en&layout=compact" alt="totimang" /></p><br>
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=totimang&" alt="totimang" /></p>
 </div>
