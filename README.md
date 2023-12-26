@@ -32,7 +32,7 @@
    <div>
         <h3>🔧 IDE's:</h3>
         <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
-        <a href="https://www.sublimetext.com/3" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/sublime-text-icon/" alt="Sublime Text 3" width="40" height="40"/></a>
+        <a href="https://www.sublimetext.com/3" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sublime-text-icon.png" alt="Sublime Text 3" width="40" height="40"/></a>
         <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="40" height="40"/></a>
         <a href="http://www.murcielagoblanco.com.ar/index.php/descargas/24-vb-2008" target="_blank" rel="noreferrer"> <img src="https://erickorlando.files.wordpress.com/2015/05/vbnet.png?w=150" alt="Microsoft Visual Basic 2008 " width="40" height="40"/></a>
     </div>
