@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=totimang&show_icons=true&locale=en&layout=compact" alt="totimang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=totimang&show_icons=true&locale=en" alt="totimang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=totimang&" alt="totimang" /></p>
