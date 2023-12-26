@@ -9,7 +9,7 @@
 
 - 📫 Te podes contactar conmigo a través del siguiente correo **rod_martinez88@hotmail.com**
 
-<h3 align="left">Perfil de Linkedin</h3>
+<h3 align="left">Perfil de Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rodrigodmartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigodmartinez" height="30" width="40" /></a>
 </p>
@@ -30,9 +30,10 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     </div>
     <div>
-        <h3>🔧IDE's:</h3>
+        <h3>🔧 IDE's:</h3>
         <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" width="40" height="40"/></a>
         <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS2022" width="40" height="40"/></a>
+        <a href="http://www.murcielagoblanco.com.ar/index.php/descargas/24-vb-2008" target="_blank" rel="noreferrer"> <img src="https://erickorlando.files.wordpress.com/2015/05/vbnet.png?w=150" alt="MVB2008" width="40" height="40"/></a>
     </div>
 </div>
 
