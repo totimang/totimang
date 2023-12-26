@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=totimang&label=Profile%20views&color=0e75b6&style=flat" alt="totimang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=totimang" alt="totimang" /></a> </p>
-
 - 📚 Actualmente me encuentro cursando la carrera terciaria de “Técnico analista de sistemas”. Cuento con 12 materias aprobadas y me restan 12 materias más, para lograr recibirme. **También he realizado varios cursos en el área de programación**
 
 - 💬 Me gusta visitar a la familia, ver a los amigos y jugar al futbol en el tiempo libre **De vez en cuando desconectarme para leer o jugar juegos en línea.**
