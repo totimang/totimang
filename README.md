@@ -30,13 +30,18 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     </div>
    <div>
-        <h3>🔧 IDE's:</h3>
+        <h3>🔧 IDE's y herramientas:</h3>
         <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
         <a href="https://www.sublimetext.com/3" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sublime-text-icon.png" alt="Sublime Text 3" width="40" height="40"/></a>
         <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="40" height="40"/></a>
-        <a href="http://www.murcielagoblanco.com.ar/index.php/descargas/24-vb-2008" target="_blank" rel="noreferrer"> <img src="https://erickorlando.files.wordpress.com/2015/05/vbnet.png?w=150" alt="Microsoft Visual Basic 2008 " width="40" height="40"/></a>
+        <a href="http://www.murcielagoblanco.com.ar/index.php/descargas/24-vb-2008" target="_blank" rel="noreferrer"> <img src="https://erickorlando.files.wordpress.com/2015/05/vbnet.png?w=150" alt="Microsoft Visual Basic 2008" width="40" height="40"/></a>
+        <a href="https://www.bloodshed.net" target="_blank" rel="noreferrer"> <img src="https://www.bloodshed.net/data/_uploaded/image/blddevcpp.png" alt="DEV- C++" width="40" height="40"/></a>
+        <a href="https://pseint.sourceforge.net" target="_blank" rel="noreferrer"> <img src="https://pseint.sourceforge.net/logo-header.png" alt="PSeInt" width="40" height="40"/></a>
+        <a href="https://www.eclipse.org" target="_blank" rel="noreferrer"> <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="Eclipse" width="40" height="40"/></a>
+        <a href="https://netbeans.apache.org/front/main/" target="_blank" rel="noreferrer"> <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="Apache NetBeans" width="40" height="40"/></a>
+        <a href="https://sourceforge.net/projects/wampserver/" target="_blank" rel="noreferrer"> <img src="https://a.fsdn.com/allura/p/wampserver/icon?1529317791?&w=90" alt="Wamp Server" width="40" height="40"/></a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Bash" width="40" height="40"/></a>
     </div>
-</div>
 
 ---
 
