@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Rodrigo un gusto a todos 👋</h1>
 <h3 align="center">Sobre mí: Me encanta la tecnología desde que tengo uso de razón, todo gracias a la Pentium II que compro mi padre.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=totimang&label=Profile%20views&color=0e75b6&style=flat" alt="totimang" /> </p>
+
 
 - 📚 Actualmente me encuentro cursando la carrera terciaria de “Técnico analista de sistemas”. Cuento con 12 materias aprobadas y me restan 12 materias más, para lograr recibirme. **También he realizado varios cursos en el área de programación**
 
